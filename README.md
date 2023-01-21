@@ -1,4 +1,4 @@
-# tarea1-videojuegos
+# tarea2-videojuegos
 
 Este repositorio es de la practica de Git que se va a realizar para la tarea 1, este corresponde al siguiente punto de la practica:
 
